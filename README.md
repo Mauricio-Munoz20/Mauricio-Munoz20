@@ -7,7 +7,7 @@
 - Fecha: 13/10/2024;
 
 - Código hecho en Eclipse C++ Versión 24-09;
-- Compilación: g++ main.cpp o gcc en el directorio Taller;
+- Compilación: g++ main.cpp o GCC C++ en el directorio Taller en Eclipse;
 - (es recomendable que siga los objetos puestos de ejemplo por acá para hacer el test de forma controlada, pero de manera opcional puede elegir los datos que quiera).
 - OBJETOS CREADOS POR TECLADO (el codigo está hecho para que los objetos que se creen sean escogidos mediante cin):
   - Usuario1: {Nombre: "Mauricio Muñoz", ID: "mauricio_muñ"}
