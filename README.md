@@ -7,7 +7,23 @@
 - Fecha: 13/10/2024;
 
 - Código hecho en Eclipse C++ Versión 24-09;
-- Compilación: g++ main.cpp;
-- (es recomendable que siga los objetos puestos de ejemplo por acá para hacer el test de forma controlada).
+- Compilación: g++ main.cpp o gcc en el directorio Taller;
+- (es recomendable que siga los objetos puestos de ejemplo por acá para hacer el test de forma controlada, pero de manera opcional puede elegir los datos que quiera).
 - OBJETOS CREADOS POR TECLADO (el codigo está hecho para que los objetos que se creen sean escogidos mediante cin):
-  - Libros: 
+  - Usuario1: {Nombre: "Mauricio Muñoz",ID: "mauricio_muñ"}
+  - Usuario2: {Nombre: "José Luis",ID: "veas_munoz"}
+  - Usuario3: {Nombre: "Carlos Tapia",ID: "paredes"}
+  - Usuario4: {Nombre: "Marilyn Manson",ID: "mari_manson"}
+  - Usuario5: {Nombre: "Kick Buttowski",ID: "kick_butt"}
+  - Usuario6: {Nombre: "Joaquin Phoenix",ID: "joaco_phoenix"}
+  - Usuario7: {Nombre: "Dipper Pines",ID: "vincencraft"}
+  - Usuario8: {Nombre: "Matías Roa",ID: "ayudante"}
+  - Usuario9: {Nombre: "Valentina Alvarado",ID: "vale_alva"}
+  - Usuario10: {Nombre: "Antonia Sandoval",ID: "anto_sando"}
+  - Usuario11: {Nombre: "Pacifica Noroeste",ID: "northwest"}
+  - Usuario12: {Nombre: "Jennifer Gaga",ID: "jenny"}
+  - Usuario13: {Nombre: "Monserrat Salinas",ID: "monse_sal"}
+  - Usuario14: {Nombre: "Marge Simpson",ID: "homero_cripy"}
+  - Usuario15: {Nombre: "Rocio Alfaro",ID: "rosy"}
+   - Crear más usuario de aquí hacia adelante no se podría hacer, tendría que elimininar alguno de los anteriores para eso...
+  - Libro1: 
