@@ -10,20 +10,31 @@
 - Compilación: g++ main.cpp o gcc en el directorio Taller;
 - (es recomendable que siga los objetos puestos de ejemplo por acá para hacer el test de forma controlada, pero de manera opcional puede elegir los datos que quiera).
 - OBJETOS CREADOS POR TECLADO (el codigo está hecho para que los objetos que se creen sean escogidos mediante cin):
-  - Usuario1: {Nombre: "Mauricio Muñoz",ID: "mauricio_muñ"}
-  - Usuario2: {Nombre: "José Luis",ID: "veas_munoz"}
-  - Usuario3: {Nombre: "Carlos Tapia",ID: "paredes"}
-  - Usuario4: {Nombre: "Marilyn Manson",ID: "mari_manson"}
-  - Usuario5: {Nombre: "Kick Buttowski",ID: "kick_butt"}
-  - Usuario6: {Nombre: "Joaquin Phoenix",ID: "joaco_phoenix"}
-  - Usuario7: {Nombre: "Dipper Pines",ID: "vincencraft"}
-  - Usuario8: {Nombre: "Matías Roa",ID: "ayudante"}
-  - Usuario9: {Nombre: "Valentina Alvarado",ID: "vale_alva"}
-  - Usuario10: {Nombre: "Antonia Sandoval",ID: "anto_sando"}
-  - Usuario11: {Nombre: "Pacifica Noroeste",ID: "northwest"}
-  - Usuario12: {Nombre: "Jennifer Gaga",ID: "jenny"}
-  - Usuario13: {Nombre: "Monserrat Salinas",ID: "monse_sal"}
-  - Usuario14: {Nombre: "Marge Simpson",ID: "homero_cripy"}
-  - Usuario15: {Nombre: "Rocio Alfaro",ID: "rosy"}
-   - Crear más usuario de aquí hacia adelante no se podría hacer, tendría que elimininar alguno de los anteriores para eso...
-  - Libro1: 
+  - Usuario1: {Nombre: "Mauricio Muñoz", ID: "mauricio_muñ"}
+  - Usuario2: {Nombre: "José Luis", ID: "veas_munoz"}
+  - Usuario3: {Nombre: "Carlos Tapia", ID: "paredes"}
+  - Usuario4: {Nombre: "Marilyn Manson", ID: "mari_manson"}
+  - Usuario5: {Nombre: "Kick Buttowski", ID: "kick_butt"}
+  - Usuario6: {Nombre: "Joaquin Phoenix", ID: "joaco_phoenix"}
+  - Usuario7: {Nombre: "Dipper Pines", ID: "vincencraft"}
+  - Usuario8: {Nombre: "Matías Roa", ID: "ayudante"}
+  - Usuario9: {Nombre: "Pacifica Noroeste", ID: "northwest"}
+  - Usuario10: {Nombre: "Marge Simpson", ID: "homero_cripy"}
+   - - Crear más usuario de aquí hacia adelante no se podría hacer, tendría que elimininar alguno de los anteriores para eso...
+  - Libro1: {Nombre: "Diario 3", ISBN: "978-0-06-088328-7", Autor: "Stanford Pines", Fecha de Publicación: "1983", Resumen: "Contiene información sobre los extraños misterios de Gravity Falls y sobre las criaturas mágicas que habitan en él."}
+  - Libro2: {Nombre: "La Odisea", ISBN: "978-0-14-026886-7", Autor: "Homero", Fecha de Publicación: "Siglo VIII a.C", Resumen: "La épica historia de las aventuras de Odiseo en su viaje de regreso a Ítaca después de la guerra de Troya."}
+  - Libro3: {Nombre: "Probabilidad y estadística aplicadas a la ingeniería", ISBN: "968-18-5915-4", Autor: "Montgomery Runger", Fecha de Publicación: "2003", Resumen: "Aborda temas como el análisis de datos, la teoría de probabilidades, distribuciones estadísticas, estimación de parámetros, pruebas de hipótesis, regresión y diseño de experimentos."}
+  - Libro4: {Nombre: "Data Structures and Algorithms", ISBN: "13 978-0-470-38327-8", Autor: "Roberto Tamassia", Fecha de Publicación: "2011", Resumen: "Este libro relata el curso de Estructura de Datos y el uso de C++".}
+  - Libro5: {Nombre: "El Jugador", ISBN: "978-84-18395-12-3", Autor: "Fiódor Dostoyevski", Fecha de Publicación: "1866", Resumen: "Documenta el descenso a los infiernos de la adicción al juego, de la expatriación forzosa y de los amores destructivos e imposibles."}
+  - Libro6: {Nombre: "Álgebra", ISBN: "978-956-278-245-6", Autor: "Ximena Carreño", Fecha de Publicación: "2012", Resumen: "Texto que recorre material de Álgebra y Estadística."}
+  - Libro7: {Nombre: "Simbolos Mortales", ISBN: "978-956-406-215-0", Autor: "Matías Quintana", Fecha de Publicación: "2023", Resumen: "Cuenta la historia de dos personas intachables, las cuales se sumen a la inseguridad y en la desesperanza al ser acosadas por un asesino en serie, de quien no se tiene la certeza de quien podría ser y qué intenciones tiene con las protagonistas."} 
+  - Libro8: {Nombre: "Plan Camelot", ISBN: "978-956-3606-24-9", Autor: "Dauno Tótoro", Fecha de Publicación: "2019", Resumen: "El país Chile será el laboratorio de Camelot, un elaborado plan de J.F. Kennedy y su grupo de arturianos. Con la ayuda de un misterioso personaje, se podrá desentrañar este plan."}
+  - Libro9: {Nombre: "El Universo", ISBN: "978-1-4723-5791-5", Autor: "Parragon", Fecha de Publicación: "2015", Resumen: "Viaja a través de un fascinante viaje visual por el cosmos: la belleza del universo."}
+  - Revista1: {Nombre: "Cultura Pop", ISBN: "978-7-65-432109-8", Autor: "Juanito Pérez", Número de Edición: 45, Mes de Publicación: "Noviembre"}
+  - Revista2: {Nombre: "Proyecciones Review", ISBN: "978-0-12-345678-9", Autor: "Daniel Santomé", Número de Edición: 11, Mes de Publicación: "Octubre"}
+  - Revista3: {Nombre: "Urocultivo", ISBN: "978-9-87-654321-0", Autor: "El Turco", Número de Edición: 27, Mes de Publicación: "Enero"}
+  - Revista4: {Nombre: "Religión en el anime", ISBN: "978-4-56-789012-3", Autor: "Sofía Contreras", Número de Edición: 33, Mes de Publicación: "Febrero"}
+  - Revista5: {Nombre: "Vogue", ISBN: "978-2-4567-1234-9", Autor: "Madonna", Número de Edición: 69, Mes de Publicación: "Julio"}
+  - Revista6: {Nombre: "Ingeniería Civil Biomédica", ISBN: "978-8-34-562791-5", Autor: "Sebastían Cubillos", Número de Edición: 97, Mes de Publicación: "Agosto"}
+  - - (Solo se pueden tener 15 material bibliografico, entre libros y revistas. En caso de querer agregar más, tendrá que eliminar alguno de ellos).
+}
