@@ -8,7 +8,6 @@
 
 - Código hecho en Eclipse C++ Versión 24-09;
 - Compilación: g++ main.cpp;
-
+- (es recomendable que siga los objetos puestos de ejemplo por acá para hacer el test de forma controlada).
 - OBJETOS CREADOS POR TECLADO (el codigo está hecho para que los objetos que se creen sean escogidos mediante cin):
-  - (es recomendable que siga los objetos puestos de ejemplo por acá)
   - Libros: 
