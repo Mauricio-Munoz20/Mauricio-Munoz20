@@ -10,5 +10,5 @@
 - Compilación: g++ main.cpp;
 
 - OBJETOS CREADOS POR TECLADO (el codigo está hecho para que los objetos que se creen sean escogidos mediante cin):
-  (es recomendable que siga los objetos puestos de ejemplo por acá)
+  - (es recomendable que siga los objetos puestos de ejemplo por acá)
   - Libros: 
